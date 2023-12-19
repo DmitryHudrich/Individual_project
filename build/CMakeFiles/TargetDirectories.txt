@@ -1,0 +1,5 @@
+C:/Users/dimap/kirill_lab/cpp/Individual_project/build/CMakeFiles/CopyFilesTarget.dir
+C:/Users/dimap/kirill_lab/cpp/Individual_project/build/CMakeFiles/CopyIniFilesTarget.dir
+C:/Users/dimap/kirill_lab/cpp/Individual_project/build/CMakeFiles/kirill_lab.dir
+C:/Users/dimap/kirill_lab/cpp/Individual_project/build/CMakeFiles/edit_cache.dir
+C:/Users/dimap/kirill_lab/cpp/Individual_project/build/CMakeFiles/rebuild_cache.dir

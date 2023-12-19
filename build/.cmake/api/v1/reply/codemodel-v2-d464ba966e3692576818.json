@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kirill_lab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyFilesTarget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyFilesTarget-Debug-6bb8c993808b651e52a6.json",
+					"name" : "CopyFilesTarget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyIniFilesTarget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyIniFilesTarget-Debug-b7d67c3a42321b444a5e.json",
+					"name" : "CopyIniFilesTarget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kirill_lab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kirill_lab-Debug-4f5ea0ccd42403a3d4fc.json",
+					"name" : "kirill_lab",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dimap/kirill_lab/cpp/Individual_project/build",
+		"source" : "C:/Users/dimap/kirill_lab/cpp/Individual_project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

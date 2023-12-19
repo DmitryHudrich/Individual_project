@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/dimap/kirill_lab/cpp/Individual_project/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\kirill_lab.dir\\Individual_project.cpp.obj -c C:\\Users\\dimap\\kirill_lab\\cpp\\Individual_project\\Individual_project.cpp",
+  "file": "C:\\Users\\dimap\\kirill_lab\\cpp\\Individual_project\\Individual_project.cpp",
+  "output": "CMakeFiles\\kirill_lab.dir\\Individual_project.cpp.obj"
+}
+]
